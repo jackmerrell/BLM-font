@@ -61,7 +61,8 @@ Z,
 "",
 "[",
 "(",
-")"
+")",
+":"
 );
 date = "2020-06-10 17:41:39 +0000";
 familyName = BLM;
@@ -1710,6 +1711,37 @@ width = 411;
 }
 );
 unicode = 002C;
+},
+{
+glyphname = colon;
+lastChange = "2020-06-14 12:24:54 +0000";
+layers = (
+{
+layerId = "F308DFDC-97C1-4BE3-8956-0141BA9DEEC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"27 0 LINE",
+"27 117 LINE",
+"144 117 LINE",
+"144 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"27 383 LINE",
+"27 500 LINE",
+"144 500 LINE",
+"144 383 LINE"
+);
+}
+);
+width = 167;
+}
+);
+unicode = 003A;
 },
 {
 glyphname = exclam;
