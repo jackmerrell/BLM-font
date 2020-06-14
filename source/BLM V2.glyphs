@@ -1,70 +1,7 @@
 {
 .appVersion = "1286";
 DisplayStrings = (
-".",
-",",
-"+",
-"]",
-"]",
-"",
-CD,
-"",
-D,
-"",
-E,
-"",
-F,
-"",
-G,
-"",
-H,
-"",
-I,
-"",
-J,
-"",
-K,
-"",
-L,
-"",
-M,
-"",
-"",
-N,
-O,
-"",
-P,
-"",
-"",
-Q,
-R,
-"",
-S,
-"",
-T,
-"",
-U,
-"",
-V,
-"",
-W,
-"",
-"",
-X,
-Y,
-"",
-Z,
-"",
-"!",
-"/Exclamation",
-"/Exclamation",
-"",
-"[",
-"(",
-")",
-":",
-";",
-"#"
+"black lives matter="
 );
 date = "2020-06-10 17:41:39 +0000";
 familyName = BLM;
@@ -1411,7 +1348,7 @@ unicode = 0035;
 },
 {
 glyphname = six;
-lastChange = "2020-06-10 19:15:25 +0000";
+lastChange = "2020-06-14 13:29:38 +0000";
 layers = (
 {
 layerId = "F308DFDC-97C1-4BE3-8956-0141BA9DEEC1";
@@ -1423,12 +1360,9 @@ nodes = (
 "71 17 OFFCURVE",
 "132 0 CURVE",
 "269 0 LINE",
-"330 17 OFFCURVE",
-"376 74 OFFCURVE",
-"376 141 CURVE",
-"376 144 OFFCURVE",
-"376 147 OFFCURVE",
-"375 150 CURVE",
+"331 17 OFFCURVE",
+"375 74 OFFCURVE",
+"375 141 CURVE",
 "375 150 LINE",
 "376 327 LINE",
 "376 394 OFFCURVE",
@@ -1467,7 +1401,7 @@ nodes = (
 );
 }
 );
-width = 401;
+width = 400;
 }
 );
 unicode = 0036;
@@ -2014,6 +1948,28 @@ width = 400;
 }
 );
 unicode = 002D;
+},
+{
+glyphname = underscore;
+lastChange = "2020-06-14 13:42:49 +0000";
+layers = (
+{
+layerId = "F308DFDC-97C1-4BE3-8956-0141BA9DEEC1";
+paths = (
+{
+closed = 1;
+nodes = (
+"0 -44 LINE",
+"400 -44 LINE",
+"400 -160 LINE",
+"0 -160 LINE"
+);
+}
+);
+width = 400;
+}
+);
+unicode = 005F;
 },
 {
 glyphname = quoteleft;
